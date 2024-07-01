@@ -3,7 +3,7 @@
 Little PS module for base64 encoding and decoding.
 
 ```powershell
-   Import-Module .\base64-powershell
+   Import-Module .\base64-powershell\base64.psm1
 ```
 
 1. **ConvertTo-Base64:**
